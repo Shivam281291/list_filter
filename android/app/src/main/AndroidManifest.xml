@@ -2,7 +2,7 @@
     package="com.example.alobha_text.alobha_test">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="alobha_test"
+        android:label="Alobha Test"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
