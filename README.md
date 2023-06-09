@@ -1,6 +1,7 @@
-# alobha_test
+# Basic List App 
 
-A new Flutter project.
+This is a basic flutter app that uses API to render a list and also filter the results.
+Also this app uses providers for state management.
 
 ## Getting Started
 
